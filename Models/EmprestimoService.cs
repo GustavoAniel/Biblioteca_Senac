@@ -57,6 +57,8 @@ namespace Biblioteca.Models
                 {
                     query = bc.Emprestimos;
                 }
+
+                query = query.OrderByDescending(e => e.DataDevolucao);
                 return query.Include(e => e.Livro).ToList();
             }
         }
