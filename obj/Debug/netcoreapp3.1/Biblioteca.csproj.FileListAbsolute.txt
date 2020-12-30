@@ -106,3 +106,8 @@ C:\Users\gusta\Documents\Projetos\Senac\Netcore3.1\Biblioteca\obj\Debug\netcorea
 C:\Users\gusta\Documents\Projetos\Senac\Netcore3.1\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.genruntimeconfig.cache
 C:\Users\gusta\Documents\Projetos\Senac\Netcore3.1\Biblioteca\bin\Debug\netcoreapp3.1\Remotion.Linq.dll
 C:\Users\gusta\Documents\Projetos\Senac\Netcore3.1\Biblioteca\bin\Debug\netcoreapp3.1\System.Interactive.Async.dll
+C:\Users\gusta\Documents\Projetos\Senac\Netcore3.1\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Cadastro.cshtml.g.cs
+C:\Users\gusta\Documents\Projetos\Senac\Netcore3.1\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Edicao.cshtml.g.cs
+C:\Users\gusta\Documents\Projetos\Senac\Netcore3.1\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Excluir.cshtml.g.cs
+C:\Users\gusta\Documents\Projetos\Senac\Netcore3.1\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Listagem.cshtml.g.cs
+C:\Users\gusta\Documents\Projetos\Senac\Netcore3.1\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\_FormCadastro.cshtml.g.cs

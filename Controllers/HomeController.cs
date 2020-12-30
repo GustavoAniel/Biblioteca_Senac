@@ -31,9 +31,11 @@ namespace Biblioteca.Controllers
         }
 
         [HttpPost]
-        public IActionResult Login(string login, string senha)
+        public IActionResult Login(Usuario usuario,string login, string senha)
         {
-            if(login != "admin" || senha != "123")
+            UsuarioService us = new UsuarioService();
+            
+            if(!(us.Logar(usuario)))
             {
                 ViewData["Erro"] = "Senha inválida";
                 return View();
